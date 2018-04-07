@@ -22,7 +22,7 @@ public class RemoteControlTest {
 	
 		@Test
 		public void failedTest(){
-			assertTrue(false)
+			assertTrue(false);
 		}
 
 }
