@@ -3,7 +3,7 @@ MAINTAINER kuesg@gmail.com
 
 # Copy Files
 
-COPY .First.html  /user/local/apache2/htdocs/
+COPY First.html  /user/local/apache2/htdocs/
 
 # ExposePorts
 EXPOSE 80
